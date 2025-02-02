@@ -12,7 +12,9 @@
 
 ## 📋 Project Overview
 
-![Spring Framework](https://raw.githubusercontent.com/spring-projects/spring-framework/main/framework-docs/src/docs/spring-framework.png){: align="right" width="100" height="100"}
+<div align="center">
+  <img src="https://raw.githubusercontent.com/spring-projects/spring-framework/main/framework-docs/src/docs/spring-framework.png" width="100" height="100">
+</div>
 
 A comprehensive user management system showcasing modern Java web development practices. This project implements robust security measures using Spring Security, demonstrating industry-standard authentication and authorization mechanisms.
 
